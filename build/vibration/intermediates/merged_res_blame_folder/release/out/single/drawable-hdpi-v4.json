@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\vibration\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\vibration\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\vibration\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\vibration\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\vibration\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

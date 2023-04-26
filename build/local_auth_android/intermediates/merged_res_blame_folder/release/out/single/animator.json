@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\local_auth_android\\intermediates\\res\\merged\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1a4f9e4f8886261d085045116816183b\\transformed\\fragment-1.5.5\\res\\animator\\fragment_open_exit.xml"
+    }
+]

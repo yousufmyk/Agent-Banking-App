@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\cbc36052eff60f026549c1772ecb8c65\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\cbc36052eff60f026549c1772ecb8c65\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\cbc36052eff60f026549c1772ecb8c65\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\cbc36052eff60f026549c1772ecb8c65\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\scan\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\cbc36052eff60f026549c1772ecb8c65\\transformed\\appcompat-1.2.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    }
+]

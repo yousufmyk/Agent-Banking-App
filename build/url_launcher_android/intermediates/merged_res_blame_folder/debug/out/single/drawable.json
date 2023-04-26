@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

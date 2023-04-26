@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\1fe12e19d83e27963cd9b0743cc8c366\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\google_maps_flutter_android\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\00055b66771930200d8f02b16ffb93f0\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

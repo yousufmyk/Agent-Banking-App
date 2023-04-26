@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AgentApp\\app\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\945e54c5fbc0b2b15b0484ee910f4a9d\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\945e54c5fbc0b2b15b0484ee910f4a9d\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\945e54c5fbc0b2b15b0484ee910f4a9d\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AgentApp\\app\\build\\video_player_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\yousuf\\.gradle\\caches\\transforms-3\\945e54c5fbc0b2b15b0484ee910f4a9d\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
